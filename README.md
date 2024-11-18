@@ -59,21 +59,6 @@ Contribute and share [your favorite resources here](https://docs.google.com/docu
 * Week XX [Nov  25-29]: NO CLASS THIS WEEK
 * Week 13 [Dec  02-06]: PROJECTS DUE!!! Final Project Demos // Most Import Curriculum Review // What’s Next
 
-# Homework Instructions: How to hand in your HWs.
-__HW assignments can be found in that each weeks README.md file. Open that weeks folder to find assignment__
-
-__All HWs are due at 12:01pm (noon) the day before the next class__
-
-* Tue class:  HW due 12:01pm (noon) on Mon
-* Wed class: HW due 12:01pm (noon) on Tue
-* Fridays (both):  HW due 12:01pm (noon) on Thr
-
-__Submit your HW assignemts next to your name in your sections sheet below__
-* [Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/150MVMGhClrJ7NFAoukEvbZoujM3a_-7v9r9q4QihiAc/edit?gid=0#gid=0)
-* [Wed HW Submission Sheet](https://docs.google.com/spreadsheets/d/1h3TcC5mDSPhOuRIHJnq5qr-MHsEXfVdDxgx9s1YHWRM/edit?usp=sharing)
-* [Friday's 12:30 HW Submission Sheet](https://docs.google.com/spreadsheets/d/1jws-NeM5Ww4m903Xa8Vgdzcqi1LO3r_zXNQkNxeBk34/edit?usp=sharing)
-* [Friday's 6:30 HW Submission Sheet](https://docs.google.com/spreadsheets/d/1mIpyT3I08v-uU--gOqb0dVLy95jtnchKMAsAWXf_mus/edit?usp=sharing)
-
 ## There are usually 3 sections of HW every week.
 
 ### #1 Pre-Class HW [~1hr]
